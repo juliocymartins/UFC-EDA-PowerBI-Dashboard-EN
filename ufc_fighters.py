@@ -3,7 +3,7 @@ import pandas as pd
 ## STEP 1: LOAD DATASET AND PREPARE A NEW DATAFRAME WITH DATA THAT WILL BE USED IN FURTHER ANALYSIS.
 
 # Load the dataset into a DataFrame.
-ufc_df = pd.read_csv(r'C:\Users\yamas\Downloads\archive\csv\ufc-master.csv')
+ufc_df = pd.read_csv(r'caminho\ufc-master.csv')
 
 # Changing the format of some dates to standardize their format
 
