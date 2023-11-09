@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the dataset into a DataFrame.
-ufc_fighters_df = pd.read_excel(r'C:\Users\yamas\OneDrive\Área de Trabalho\PROJETO_UFC_DS\ufc_fighters.xlsx')
+ufc_fighters_df = pd.read_excel(r'caminho\ufc_fighters.xlsx')
 
 # List of columns for statistics to be summed
 stat_columns = ['wins', 'draws', 'losses', 'age', 'win_by_Submission', 'win_by_KO/TKO', 'Stance',
