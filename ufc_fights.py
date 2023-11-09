@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Carregar o DataFrame
-ufc_fights_df = pd.read_excel(r'C:\Users\yamas\OneDrive\Área de Trabalho\PROJETO_UFC_DS\dfs\ufc_master(excel).xlsx')
+ufc_fights_df = pd.read_excel(r'caminho\ufc_master(excel).xlsx')
 
 for index in range(0, 58):  # Intervalo de linhas 0 a 57 (lembrando que o índice começa em 0)
     old_date = ufc_fights_df.at[index, 'date']
