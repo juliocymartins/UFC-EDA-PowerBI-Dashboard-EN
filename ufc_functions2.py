@@ -2,9 +2,6 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-
-# # # Carregar o DataFrame ufc_fights
-# ufc_fights_df = pd.read_excel(r'C:\Users\yamas\OneDrive\Área de Trabalho\PROJETO_UFC_DS\ufc_fights.xlsx')
 def plot_unique_events_per_year(dataframe):
     dataframe['year'] = dataframe['date'].dt.year
     dataframe['day'] = dataframe['date'].dt.date
