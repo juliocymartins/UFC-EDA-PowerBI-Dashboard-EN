@@ -30,7 +30,7 @@ Outros: Postei também screenshots do dashboard no formato .png e também os arq
 
 O dataset original também está no projeto (ufc-master(DATASET ORIGINAL).csv).
 
-O projeto também possui uma versão no Power B.I. que pode ser acessada através do link:
+O projeto também possui uma versão no Power B.I.  com 2 páginas, que pode ser acessada através do link:
 https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9
 
 Observação: Contém duas páginas. Uma para os lutadores e outra para as lutas/eventos.
