@@ -1,44 +1,34 @@
-# ufc_eda_dashboard
-Projeto de Análise Exploratória de Dados - Ultimate UFC Dataset
+# UFC EDA Dashboard
+Project of Exploratory Data Analysis - Ultimate UFC Dataset
 
-O projeto também possui uma versão no Power B.I.  com 2 páginas, que pode ser acessada através do link:
-https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9
-Observação: Contém duas páginas. Uma para os lutadores e outra para as lutas/eventos.
+The project also has a version in Power BI with 2 pages, which can be accessed through the link: https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9 Note: It contains two pages. One for the fighters and another for the fights/events.
 
-Descrição do Projeto:
-Este projeto utiliza o conjunto de dados "Ultimate UFC Dataset" disponível no Kaggle, que contém informações abrangentes sobre todas as lutas do UFC de meados de 2010 até meados de 2021. A análise se concentrou em extrair informações relevantes sobre os eventos e os lutadores.
+Project Description: This project utilizes the "Ultimate UFC Dataset" available on Kaggle, which contains comprehensive information about all UFC fights from mid-2010 to mid-2021. The analysis focused on extracting relevant information about the events and the fighters.
 
-A partir dos insights obtidos, foram criadas novas tabelas no formato Excel:
+Based on the insights obtained, new tables were created in Excel format:
 
-ufc_fighters.xlsx: Contém dados abrangentes sobre os lutadores, consolidando informações cruciais para análises futuras.
-ufc_fights.xlsx: Contém informações detalhadas sobre as lutas, permitindo uma visão completa das estatísticas e resultados.
-Além disso, foi gerado um arquivo chamado ufc_fighters_all.xlsx, que analisa os lutadores individualmente, fornecendo uma visão detalhada sobre cada um.
+ufc_fighters.xlsx: Contains comprehensive data about the fighters, consolidating crucial information for future analyses. ufc_fights.xlsx: Contains detailed information about the fights, allowing for a complete view of the statistics and results. Additionally, a file called ufc_fighters_all.xlsx was generated, which analyzes the fighters individually, providing a detailed view of each one.
 
-Dashboard
-Foi desenvolvido um dashboard interativo em Python chamado ufc_dashboard.py, que oferece uma visão geral das estatísticas e insights mais relevantes extraídos do conjunto de dados do UFC.
+Dashboard: An interactive dashboard was developed in Python called ufc_dashboard.py, which provides an overview of the most relevant statistics and insights extracted from the UFC dataset.
 
-Conteúdo do Repositório:
+Repository Contents:
 
-ufc_fighters.py: Desenvolvimento inicial do projeto, onde foram criados os arquivos R_fighters.xlsx e B_fighters.xlsx. A partir deles foi criado o arquivo ufc_fighters.xlsx.
+ufc_fighters.py: Initial development of the project, where the files R_fighters.xlsx and B_fighters.xlsx were created. From them, the ufc_fighters.xlsx file was created.
 
-ufc_fighters_all.py: Etapa de criação de um dataframe contendo os dados resumidos de cada lutador separado. Criado a partir do arquivo ufc_fighters.xlsx.
+ufc_fighters_all.py: Stage of creating a dataframe containing summarized data of each separate fighter. Created from the ufc_fighters.xlsx file.
 
-ufc_fights.py: Responsável por criar o arquivo 'ufc_fights.xlsx', contendo as estatísticas de lutas/eventos do UFC
+ufc_fights.py: Responsible for creating the 'ufc_fights.xlsx' file, containing UFC fight/event statistics.
 
-ufc_functions.py: Criação de funções relacionadas aos lutadores (dataframes: ufc_fighters e ufc_fighters_all) que serão plotadas no dashboard.
+ufc_functions.py: Creation of functions related to fighters (dataframes: ufc_fighters and ufc_fighters_all) that will be plotted on the dashboard.
 
-ufc_functions2.py: Criação de funções relacionadas as lutas e eventos (dataframe: ufc_fights) que serão plotadas no dashboard.
+ufc_functions2.py: Creation of functions related to fights and events (dataframe: ufc_fights) that will be plotted on the dashboard.
 
-ufc_dashboard.py: Criação e desenvolvimento de um dashboard interativo contendo análises e insights do dados obtidos ao longo do projeto.
+ufc_dashboard.py: Creation and development of an interactive dashboard containing analyses and insights of the data obtained throughout the project.
 
-Outros: Postei também screenshots do dashboard no formato .png e também os arquivos xlsx gerados ao longo do projeto. 
+Others: I also posted screenshots of the dashboard in .png format and also the xlsx files generated throughout the project.
 
-O dataset original também está no projeto (ufc-master(DATASET ORIGINAL).csv).
+The original dataset is also included in the project (ufc-master(DATASET ORIGINAL).csv).
 
+Contributing: I am open to contributions and suggestions for improvements to the project. Feel free to contact and share your ideas.
 
-
-Contribuindo
-Estou aberto a contribuições e sugestões para melhorias no projeto. Sinta-se à vontade para entrar em contato e compartilhar suas ideias.
-
-Contato
-Para mais informações ou dúvidas, entre em contato através do e-mail [yamashitajulio@hotmail.com].
+Contact: For more information or questions, please contact via email [yamashitajulio@hotmail.com].
