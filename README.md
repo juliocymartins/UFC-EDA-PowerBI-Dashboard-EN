@@ -1,7 +1,7 @@
 # UFC EDA Dashboard
 Project of Exploratory Data Analysis - Ultimate UFC Dataset
 
-## This was my inaugural project intended to enrich my portfolio.
+### This was my debut project intended to enhance my portfolio.
 
 ## The project also has a version in Power BI with 2 pages, which can be accessed through the link: https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9 Note: It contains two pages. One for the fighters and another for the fights/events.
 
