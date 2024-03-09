@@ -3,6 +3,8 @@ Project of Exploratory Data Analysis - Ultimate UFC Dataset
 
 This was my debut project intended to enhance my portfolio.
 
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/0d/5d/08/0d5d088f68339c5e03c4feff1f5805b8.gif">
+
 ### The project also has a version in Power BI with 2 pages, which can be accessed through the link: https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9 Note: It contains two pages. One for the fighters and another for the fights/events.
 
 Project Description: This project utilizes the "Ultimate UFC Dataset" available on Kaggle, which contains comprehensive information about all UFC fights from mid-2010 to mid-2021. The analysis focused on extracting relevant information about the events and the fighters.
