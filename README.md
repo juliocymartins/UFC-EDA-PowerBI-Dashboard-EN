@@ -1,7 +1,7 @@
 # UFC EDA Dashboard
 Project of Exploratory Data Analysis - Ultimate UFC Dataset
 
-This was my debut project intended to enhance my portfolio.
+I'm a big martial arts fan and this was my debut project intended to enhance my portfolio.
 
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/0d/5d/08/0d5d088f68339c5e03c4feff1f5805b8.gif">
 
