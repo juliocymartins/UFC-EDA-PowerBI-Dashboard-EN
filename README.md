@@ -3,12 +3,14 @@
 
 I'm a big martial arts fan and this was my debut project intended to enhance my portfolio.
 
+### Link to Dataset: [Ultimate UFC Dataset](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset).
+
 ### Link to Dashboard: [UFC DashBoard](https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9)
 This is the Power B.I. Version of dashboard.
 
 - Note: It contains two pages. One for the fighters and another for the fights/events.
 
-### Link to Dataset: [Ultimate UFC Dataset](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset).
+
 
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/1c/fc/b0/1cfcb047f35e4dcbeea08b54d9ae2063.gif">
 
