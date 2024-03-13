@@ -1,13 +1,14 @@
 # UFC EDA Dashboard
-Project of Exploratory Data Analysis - Ultimate UFC Dataset
+## Project of Exploratory Data Analysis - Ultimate UFC Dataset
 
 I'm a big martial arts fan and this was my debut project intended to enhance my portfolio.
 
-Link to Dataset:[Ultimate UFC Dataset](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset).
+### Link: [UFC Power B.I.](https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9)
+#### Link to Dataset:[Ultimate UFC Dataset](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset).
 
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/1c/fc/b0/1cfcb047f35e4dcbeea08b54d9ae2063.gif">
 
-### The project also has a version in Power BI with 2 pages, which can be accessed through the link:[UFC Power B.I.](https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9) Note: It contains two pages. One for the fighters and another for the fights/events.
+#### The project also has a version in Power BI with 2 pages, which can be accessed through the link:[UFC Power B.I.](https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9) Note: It contains two pages. One for the fighters and another for the fights/events.
 
 Project Description: This project utilizes the "Ultimate UFC Dataset" available on Kaggle, which contains comprehensive information about all UFC fights from mid-2010 to mid-2021. The analysis focused on extracting relevant information about the events and the fighters.
 
