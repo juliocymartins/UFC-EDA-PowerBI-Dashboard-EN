@@ -3,7 +3,7 @@
 
 I'm a big martial arts fan and this was my debut project intended to enhance my portfolio.
 
-### Link: [UFC Power B.I.](https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9)
+### Link to Dashboard Power B.I. Version: [UFC DashBoard](https://app.powerbi.com/view?r=eyJrIjoiOGI0ODc5ZWYtMmVhZC00MzU5LTlhMDMtMzgzOWNlNzYwNTgwIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9)
 This is the Power B.I. Version of dashboard.
 Note: It contains two pages. One for the fighters and another for the fights/events.
 
